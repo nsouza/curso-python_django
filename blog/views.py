@@ -1,8 +1,5 @@
-from django.shortcuts import render
 from django.http import HttpResponse
 
-def blog(request):
-    return HttpResponse('blog do app') 
-    
+def home(request):
+    return HttpResponse("Página inicial do blog")
 
-# Create your views here.
