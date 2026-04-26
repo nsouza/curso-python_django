@@ -3,6 +3,7 @@ from django.http import HttpResponse
 
 
 def home(request):
-    return HttpResponse('Blog do app 2')
+    return render(
+        'Blog do app 2')
 
 # Create your views here.
