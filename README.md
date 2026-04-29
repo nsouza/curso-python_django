@@ -7,10 +7,9 @@ git remote -v
 git remote add origin https://github.com/nsouza/curso-python_django.git
 
 #Busque as alterações mais recentes
-#git fetch origin
+git fetch origin
 
 #Atualize sua branch principal (geralmente main)
-Atualize sua branch principal (geralmente main)
+
 
 #Verifique se tudo está atualizado
-Verifique se tudo está atualizado
